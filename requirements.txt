@@ -1,3 +1,1 @@
-pip install pipreqs
-pip install requests
-pipreqs Youtube-Tag-gen/streamlit_app.py 
+requests==2.27.1
