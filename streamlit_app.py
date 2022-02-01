@@ -1,10 +1,10 @@
 import streamlit as st
-from PIL import Image
+ import requests
 
 st.title("Youtube Tag Genrator")
 a=st.text_input("Enter You Querry","Type here here..")
 if st.button("Search"):
-    import requests
+   
 
     query = a
     parms = {"client": "firefox", "q": query, "hl": "en", }
