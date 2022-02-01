@@ -1,5 +1,5 @@
 import streamlit as st
- import requests
+import requests
 
 st.title("Youtube Tag Genrator")
 a=st.text_input("Enter You Querry","Type here here..")
