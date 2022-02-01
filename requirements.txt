@@ -1,2 +1,3 @@
+pip install pipreqs
 pip install requests
-pip install streamlit
+pipreqs Youtube-Tag-gen/streamlit_app.py 
