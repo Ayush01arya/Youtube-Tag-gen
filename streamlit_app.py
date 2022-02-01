@@ -19,4 +19,4 @@ if st.button("Search"):
         st.write(f"{data}",end='')
 
 
-#st.markdown("'<h1 style='text-align:center;color:red;'>some</h1>",unsafe_allow_html=True)
+st.markdown("'<h1 style='text-align:center;color:red;'>@kabir_arya001</h1>",unsafe_allow_html=True)
